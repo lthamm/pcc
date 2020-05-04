@@ -1,2 +1,1 @@
-# python-vortrag
-Beispiele zur Programmiersprache Python
+# Vergleich Python vs C/C++
